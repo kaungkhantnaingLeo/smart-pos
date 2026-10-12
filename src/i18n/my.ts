@@ -125,7 +125,7 @@ export const my: Record<MessageKey, string> = {
   'sell.held': 'ခဏရပ်ထားသော ဘောက်ချာများ',
   'sell.noHeld': 'ခဏရပ်ထားသော ဘောက်ချာ မရှိပါ။',
   'sell.resume': 'ပြန်ဖွင့်မည်',
-  'sell.clear': 'ရှင်းမည်',
+  'sell.clear': 'ပယ်ဖျက်မည်',
   'sell.notFound': '“{q}” နှင့် ကိုက်ညီသည် မရှိပါ။',
   'sell.stock': '{qty} ကျန်',
   'sell.payment': 'ငွေပေးချေမှု',
